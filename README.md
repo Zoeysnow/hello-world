@@ -1,2 +1,2 @@
 # hello-world
-Zoey's first repository 
+Hi there, it's time to make a change and boost your hard skils. There we go! 
